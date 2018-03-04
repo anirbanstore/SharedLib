@@ -1,0 +1,8 @@
+/deploy
+/SharedView/classes
+/SharedView/deploy
+/SharedView/servers
+/SharedView/public_html/WEB-INF/temp
+/SharedModel/classes
+/SharedModel/deploy
+/SharedModel/servers
